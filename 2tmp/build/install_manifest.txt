@@ -1,0 +1,5 @@
+/home/brandon/temp/cmake_practice/2tmp/share/doc/cmake/tmp2/COPYRIGHT
+/home/brandon/temp/cmake_practice/2tmp/share/doc/cmake/tmp2/README
+/home/brandon/temp/cmake_practice/2tmp/bin/runhello.sh
+/home/brandon/temp/cmake_practice/2tmp/share/doc/cmake/tmp2/hello.txt
+/home/brandon/temp/cmake_practice/2tmp/bin/hello

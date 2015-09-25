@@ -1,0 +1,2 @@
+/home/brandon/skillStudy/backup/cmake_practice/3tmp/build/lib/CMakeFiles/hello.dir
+/home/brandon/skillStudy/backup/cmake_practice/3tmp/build/lib/CMakeFiles/hello_static.dir
