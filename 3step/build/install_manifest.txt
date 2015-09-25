@@ -1,0 +1,4 @@
+/home/brandon/temp/bin/Tutorial
+/home/brandon/temp/include/TutorialConfig.h
+/home/brandon/temp/bin/libMathFunctions.a
+/home/brandon/temp/include/MathFunctions.h

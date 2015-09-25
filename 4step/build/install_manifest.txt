@@ -1,0 +1,4 @@
+/home/brandon/temp/4step/bin/Tutorial
+/home/brandon/temp/4step/include/TutorialConfig.h
+/home/brandon/temp/4step/bin/libMathFunctions.a
+/home/brandon/temp/4step/include/MathFunctions.h

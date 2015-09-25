@@ -1,0 +1,48 @@
+Determining if the function log exists failed with the following output:
+Change Dir: /home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec219450795/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec219450795.dir/build.make CMakeFiles/cmTryCompileExec219450795.dir/build
+make[1]: Entering directory `/home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec219450795.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=log   -o CMakeFiles/cmTryCompileExec219450795.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘log’ [enabled by default]
+/usr/share/cmake-2.8/Modules/CheckFunctionExists.c:3:6: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTryCompileExec219450795
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec219450795.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=log    CMakeFiles/cmTryCompileExec219450795.dir/CheckFunctionExists.c.o  -o cmTryCompileExec219450795 -rdynamic 
+CMakeFiles/cmTryCompileExec219450795.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `log'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec219450795] Error 1
+make: *** [cmTryCompileExec219450795/fast] Error 2
+
+
+Determining if the function exp exists failed with the following output:
+Change Dir: /home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3713491843/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3713491843.dir/build.make CMakeFiles/cmTryCompileExec3713491843.dir/build
+make[1]: Entering directory `/home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3713491843.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=exp   -o CMakeFiles/cmTryCompileExec3713491843.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘exp’ [enabled by default]
+/usr/share/cmake-2.8/Modules/CheckFunctionExists.c:3:6: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTryCompileExec3713491843
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3713491843.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=exp    CMakeFiles/cmTryCompileExec3713491843.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3713491843 -rdynamic 
+CMakeFiles/cmTryCompileExec3713491843.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `exp'
+collect2: error: ld returned 1 exit status
+make[1]: Leaving directory `/home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec3713491843] Error 1
+make: *** [cmTryCompileExec3713491843/fast] Error 2
+
+

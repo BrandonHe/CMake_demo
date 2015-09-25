@@ -1,0 +1,3 @@
+/home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/MathFunctions/CMakeFiles/MakeTable.dir
+/home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/brandon/skillStudy/backup/cmake_officialTutorial/5step/build/CMakeFiles/Tutorial.dir

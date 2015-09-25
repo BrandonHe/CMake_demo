@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brandon/skillStudy/backup/cmake_officialTutorial/4step/MathFunctions/MathFunctions.h
+
+/home/brandon/skillStudy/backup/cmake_officialTutorial/4step/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/home/brandon/skillStudy/backup/cmake_officialTutorial/4step/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/home/brandon/skillStudy/backup/cmake_officialTutorial/4step/MathFunctions/TutorialConfig.h
+math.h
+-
+
+TutorialConfig.h
+

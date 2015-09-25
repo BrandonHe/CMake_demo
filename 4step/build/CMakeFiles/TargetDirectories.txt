@@ -1,0 +1,2 @@
+/home/brandon/skillStudy/backup/cmake_officialTutorial/4step/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/brandon/skillStudy/backup/cmake_officialTutorial/4step/build/CMakeFiles/Tutorial.dir
